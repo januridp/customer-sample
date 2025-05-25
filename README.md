@@ -1,4 +1,4 @@
-# Spring Boot Thymeleaf Sample
+# Spring Boot Thymeleaf Samples
 
 This is a sample project demonstrating the use of **Spring Boot** with **Thymeleaf** for building a simple web
 application. The application manages a list of customers, allowing users to perform CRUD (Create, Read, Update, Delete)
